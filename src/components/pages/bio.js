@@ -9,7 +9,7 @@ class Bio extends Component {
                 <pre>Biography</pre>
               <br/>
                <div className="ProfileImage">
-                <img src="Me3.jpg" alt="Jirawat Hirunkam"/>
+                <img src="https://github.com/jirawathirunkam/website/blob/master/public/Me3.jpg?raw=true"/>
                </div>
             </h1>
             <div clasName="BioContent">

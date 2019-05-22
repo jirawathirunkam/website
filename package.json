@@ -2,9 +2,11 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jirawathirunkam.github.io/website/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "browser-sync": "^2.26.5",
+    "gh-pages": "^2.0.1",
     "gulp-eslint": "^5.0.0",
     "gulp-imagemin": "^5.0.3",
     "gulp-newer": "^1.4.0",
@@ -20,6 +22,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

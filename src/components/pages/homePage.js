@@ -8,7 +8,7 @@ class Homepage extends Component {
             <h1 className="HomeTitle">
               <pre>Jirawat Hirunkam</pre>
                <div className="HomeProfile">
-                <img src="Me2.jpg" alt="Jirawat Hirunkam"/>
+                <img src="https://github.com/jirawathirunkam/website/blob/master/public/Me2.jpg?raw=true"/>
                </div>
             </h1>
 
@@ -22,8 +22,8 @@ class Homepage extends Component {
             </a>
             <br/>
             <br/>
-            <a className="Resume" href="Resume.pdf" download>
-              Download Resume
+            <a className="Resume" href="https://github.com/jirawathirunkam/website/blob/master/public/Resume.pdf" target="_blank">
+              View Resume
             </a>
             <p className="About"> About </p>
             <p className="AboutContent">
@@ -71,7 +71,7 @@ class Homepage extends Component {
               Florida Gulf Coast University ( April 2019 - current )
             </p>
             <p className="WorkExperienceContent">
-              - Developing an educational virtual reality simulation of the Water Energy Food (WEF) System 
+              - Developing an educational virtual reality simulation of the Water Energy Food (WEF) System
             </p>
             <br/>
             <br/>
