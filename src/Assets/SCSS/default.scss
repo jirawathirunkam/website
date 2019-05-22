@@ -1,0 +1,290 @@
+@import "_config.scss";
+
+header {
+  position: relative;
+  display: block;
+  width: 102%;
+  color: $white;
+  height: 142px;
+  margin-left: -1%;
+  margin-top: -1%;
+
+  .Home {
+      position: absolute;
+      top: 1%; left: 5%;
+      &:hover {
+        //height: 120px;
+        opacity: 0;
+        @include transition(.4s ease-in-out);
+      }
+  }
+
+  .Home2{
+    opacity: 0;
+    position: absolute;
+    top: 1%; left: 5%;
+    &:hover {
+      //height: 120px;
+      opacity: 1;
+      @include transition(.4s ease-in-out);
+    }
+  }
+
+  .background {
+    //position:sticky;
+    //display: block;
+    width: 100%;
+    height: 100px;
+    background-image: url(Images/free-polygon-background3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 100% 20%;
+
+  }
+
+  .logo {
+    position: absolute;
+    top: 80%; left: 10%;
+    @include translateY(-50%);
+  }
+
+  nav,
+  nav ul,
+  nav ul li {
+    margin: 0;
+    padding: 0;
+  }
+
+  nav {
+    position: absolute;
+    top: 35%; right: 15px;
+    @include translateY(-50%);
+
+    ul li {
+      list-style-type: none;
+      display: inline-block;
+      margin-right: 15px;
+    }
+
+    &.last {
+        margin: 0;
+    }
+
+    a {
+      font-size: 35px;
+      line-height: normal;
+      color: $white;
+    }
+  }
+}
+//End of header
+
+//start footer
+footer {
+  opacity: 1;
+  position:fixed;
+  display: block;
+  color: $white;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 42px;
+  //background-image: url(Images/free-polygon-background2.jpg);
+  background-repeat: no-repeat;
+  background-color: $darkGrey;
+  background-size: 100%;
+  background-position: 100% 5%;
+
+  .IG_icon {
+    position: absolute;
+    top: 8%;
+    left: 42%;
+  }
+
+  .IG_iconGreen {
+    position: absolute;
+    top: 8%;
+    left: 42%;
+    opacity: 0;
+    &:hover {
+      //height: 120px;
+      opacity: 1;
+      @include transition(.4s ease-in-out);
+    }
+  }
+
+  .FB_icon{
+    position: absolute;
+    top: 8%;
+    left: 49%;
+  }
+
+  .FB_iconGreen{
+    position: absolute;
+    top: 8%;
+    left: 49%;
+    opacity: 0;
+    &:hover {
+      //height: 120px;
+      opacity: 1;
+      @include transition(.4s ease-in-out);
+    }
+  }
+
+  .LI_icon{
+    position: absolute;
+    top: 8%;
+    left: 56%;
+  }
+
+  .LI_iconGreen{
+    position: absolute;
+    top: 8%;
+    left: 56%;
+    opacity: 0;
+    &:hover {
+      //height: 120px;
+      opacity: 1;
+      @include transition(.4s ease-in-out);
+    }
+  }
+
+}
+
+//HomePage section
+.HomeTitle{
+  color: $green;
+  position: relative;
+  //margin: 0%;
+  margin-top: -2%;
+  margin-left: 38%;
+  // /margin-right: 10%;
+  font-size: 32px;
+  border-bottom: 5px solid $darkgray2;
+  //font-family:serif;
+}
+
+.HomeProfile{
+  margin: 0%;
+  position: absolute;
+
+  img{
+    width: 45%;
+    position: relative;
+    //left: 50px;
+    right: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+}
+
+.HomeContent{
+
+}
+
+.About{
+  margin-top: 3%;
+  //margin-left: 50%;
+  color: $green;
+  font-size: 25px;
+
+}
+
+.AboutContent{
+  //margin-left: 0%;
+  margin-top: -1%;
+}
+.Email{
+  position: relative;
+  left: 38%;
+  color: $black;
+  font-size: 20px;
+  text-decoration: underline;
+
+  //text-shadow: 1px 1px 2px #114dad;
+}
+.Resume{
+  position: relative;
+  left: 38%;
+  color: $black;
+  font-size: 20px;
+  font-style:normal;
+  text-decoration: underline;
+  //text-shadow: 1px 1px 2px #114dad;
+}
+
+.Skills{
+
+  font-size: 25px;
+  color: $green;
+}
+
+.SkillsContent{
+  margin-top: -1%;
+}
+
+.WorkExperience{
+  font-size: 25px;
+  color: $green;
+}
+
+.WorkExperienceContent{
+  margin-top: -1%;
+}
+
+//End of homepage
+
+
+
+
+//Bio section
+.BioTitle{
+  position: relative;
+  color: $green;
+  //background-color: $darkGrey;
+  width: 60%;
+  height: 50%;
+  line-height: 20%;
+  //background-color: $white;
+  //top: 20%; left: 40%;
+  margin-top: 0%;
+  margin-left: 38%;
+  border-bottom: 5px solid $darkgray2;
+}
+
+.ProfileImage{
+  position: absolute;
+  margin: 0%;
+
+  img{
+
+    width: 55%;
+    position: relative;
+    //left: 50px;
+    right: 60%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+}
+
+p{
+  line-height: 1.6;
+  color: $black;
+  margin-left: 38%;
+  margin-right: 5%;
+  font-size: 20px;
+  //box-shadow: 0 2px 8px 8px rgba(0,0,0,0.2);
+  //text-shadow: 2px 2px 4px #000000;
+}
+//End of Bio section
+
+
+//background
+html {
+  background-color: $white;
+  opacity: 1;
+  //background: url(Images/background2.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
