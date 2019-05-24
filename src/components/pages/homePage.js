@@ -34,7 +34,7 @@ class Homepage extends Component {
               Seeking opportunities to become a full time Software Engineer.
               <br/>
               <br/>
-              From building small school projects to developing virtual reality simulation software
+              From building small school projects to developing virtual reality software
                for university research projects, I have the passion to learn new technology
                and utilize them to solve problems more effectively and efficiently.
             </p>

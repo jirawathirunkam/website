@@ -18,7 +18,7 @@ class Projects extends Component {
             <p className="EagleExpoDemo"> Eagle Expo Demo </p>
             <p> From the video, the news discussed the other project related to hurricane,
               but the demo presented was the Eagle Expo Demo, a virtual reality Demo that focuses on
-               interactively visualization the architecture of a construction project.
+               interactively visualizing the architecture of a construction project.
             </p>
             <br/>
             <iframe className="EagleExpoDemoVideo"
