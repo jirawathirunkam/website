@@ -6,7 +6,8 @@ class Homepage extends Component {
       <div className="container-fluid">
           <body>
             <h1 className="HomeTitle">
-              <pre>Jirawat Hirunkam</pre>
+               Jirawat Hirunkam
+               <p></p>
                <div className="HomeProfile">
                 <img src="https://github.com/jirawathirunkam/website/blob/master/public/Me2.jpg?raw=true"/>
                </div>

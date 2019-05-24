@@ -6,8 +6,8 @@ class Bio extends Component {
       <div className="container-fluid">
           <body>
             <h1 className="BioTitle">
-                <pre>Biography</pre>
-              <br/>
+              Biography
+              <p></p>
                <div className="ProfileImage">
                 <img src="https://github.com/jirawathirunkam/website/blob/master/public/Me3.jpg?raw=true"/>
                </div>

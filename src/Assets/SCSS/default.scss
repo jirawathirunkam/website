@@ -155,10 +155,11 @@ footer {
 .HomeTitle{
   color: $green;
   position: relative;
-  //margin: 0%;
-  margin-top: -2%;
+  //margin-top: 2%;
+  margin-top: 0%;
   margin-left: 38%;
   // /margin-right: 10%;
+  //margin-bottom: 2%;
   font-size: 32px;
   border-bottom: 5px solid $darkgray2;
   //font-family:serif;
@@ -233,21 +234,47 @@ footer {
 
 //End of homepage
 
+//Start of Projects section
 
+.ProjectPageTitle{
+  position: relative;
+  color: $green;
+  //background-color: $darkGrey;
+  //line-height: 20%;
+  //background-color: $white;
+  //top: 20%; left: 40%;
+  margin-top: 0%;
+  margin-left: 38%;
+  font-size: 32px;
+  border-bottom: 5px solid $darkgray2;
+}
 
+.EagleExpoDemo{
+  font-size: 25px;
+  color: $green;
+  //margin-left: auto;
+}
+
+.EagleExpoDemoVideo{
+  //margin-top: -5%;
+  margin-left: 50%;
+  width: 480px;
+  height: 320px;
+}
+
+//End of Projects section
 
 //Bio section
 .BioTitle{
   position: relative;
   color: $green;
   //background-color: $darkGrey;
-  width: 60%;
-  height: 50%;
-  line-height: 20%;
+  //line-height: 20%;
   //background-color: $white;
   //top: 20%; left: 40%;
   margin-top: 0%;
   margin-left: 38%;
+  font-size: 32px;
   border-bottom: 5px solid $darkgray2;
 }
 

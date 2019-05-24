@@ -5,68 +5,18 @@ class Projects extends Component {
     return (
       <div className="container-fluid">
           <body>
-            <h1>
-              Projects page content
+            <h1 className="ProjectPageTitle">
+              Software Projects
+              <p></p>
             </h1>
-
-            <p clasName="Content">
-              What is Lorem Ipsum? <br/>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-              Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-              when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-              It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-              It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-               and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-               What is Lorem Ipsum?
-               What is Lorem Ipsum? <br/>
-               Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-               Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-               when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-               It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-               It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-                and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                What is Lorem Ipsum?
-                What is Lorem Ipsum? <br/>
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-                 and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                 What is Lorem Ipsum?
-                 What is Lorem Ipsum? <br/>
-                 Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                 when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                 It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-                  and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                  What is Lorem Ipsum?
-                  What is Lorem Ipsum? <br/>
-                  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                  when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                  It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                  It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-                   and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                   What is Lorem Ipsum?
-                   What is Lorem Ipsum? <br/>
-                   Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                   Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                   when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                   It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-                    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                    What is Lorem Ipsum?
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                    when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                    It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-                     and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                     What is Lorem Ipsum?
+            <p className="EagleExpoDemo"> Eagle Expo Demo </p>
+            <p> From the video, the news discussed the other project related to hurricane,
+              but the demo presented was the Eagle Expo Demo, a virtual reality Demo that focuses on
+               interactively visualization the architecture of a construction project.
             </p>
             <br/>
+            <iframe className="EagleExpoDemoVideo"
+             src="https://drive.google.com/file/d/1efeRGHd8pxeq61jJ9IYLmRkhGfrpJdFk/preview"></iframe>
           </body>
       </div>
     );

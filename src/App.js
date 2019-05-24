@@ -9,7 +9,7 @@ import {
 import Header from './components/headerComponent/header';
 import Footer from './components/footerComponent/footer';
 import Homepage from './components/pages/homePage';
-import Products from './components/pages/projects';
+import Project from './components/pages/projects';
 import Bio from './components/pages/bio';
 //import Contact from './components/pages/contact';
 //<Route exact path='/Contact' component={Contact} />
@@ -24,8 +24,8 @@ class App extends Component {
       <div className="App">
 
         <Header />
-          <Route exact path='/' component={Homepage}/>
-          <Route exact path='/Projects' component={Products} />
+          <Route exact path='/Website' component={Homepage}/>
+          <Route exact path='/Projects' component={Project} />
           <Route exact path='/Bio' component={Bio} />
 
         <Footer />

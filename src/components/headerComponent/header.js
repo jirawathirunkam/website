@@ -10,11 +10,11 @@ class Header extends Component {
 
           <div className="Home">
             <br></br>
-            <Link to="/"><img src="homeWhite.png" width="50" height="50"/></Link>
+            <Link to='/Website'><img src="homeWhite.png" width="50" height="50"/></Link>
           </div>
           <div className="Home2">
             <br></br>
-            <Link to="/"><img src="homeGreen.png" width="50" height="50"/></Link>
+            <Link to='/Website'><img src="homeGreen.png" width="50" height="50"/></Link>
           </div>
         </div>
         <nav>
