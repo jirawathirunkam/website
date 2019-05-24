@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.25823b55.chunk.css",
+    "main.css": "/website/static/css/main.08206f0d.chunk.css",
     "main.js": "/website/static/js/main.881ac947.chunk.js",
     "main.js.map": "/website/static/js/main.881ac947.chunk.js.map",
     "runtime~main.js": "/website/static/js/runtime~main.de462641.js",
@@ -8,9 +8,9 @@
     "static/js/2.3753a9dc.chunk.js": "/website/static/js/2.3753a9dc.chunk.js",
     "static/js/2.3753a9dc.chunk.js.map": "/website/static/js/2.3753a9dc.chunk.js.map",
     "index.html": "/website/index.html",
-    "precache-manifest.273f700e966172141c17d8fd96381647.js": "/website/precache-manifest.273f700e966172141c17d8fd96381647.js",
+    "precache-manifest.a16c51df653f84a08c9828a877b30c3a.js": "/website/precache-manifest.a16c51df653f84a08c9828a877b30c3a.js",
     "service-worker.js": "/website/service-worker.js",
-    "static/css/main.25823b55.chunk.css.map": "/website/static/css/main.25823b55.chunk.css.map",
+    "static/css/main.08206f0d.chunk.css.map": "/website/static/css/main.08206f0d.chunk.css.map",
     "static/media/default.min.css": "/website/static/media/free-polygon-background3.75387823.jpg"
   }
 }
