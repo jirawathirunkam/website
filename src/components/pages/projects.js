@@ -4,12 +4,15 @@ class Projects extends Component {
   render() {
     return (
       <div className="container-fluid">
-          <body>
+          <body className= "projectPageBody">
             <h1 className="ProjectPageTitle">
               Software Projects
               <p></p>
-              <div className="EagleExpoDemoPicture">
-                <img src="https://github.com/jirawathirunkam/website/blob/master/public/EagleExpoDemo.JPG?raw=true"/>
+              <div class="sidenav">
+                <a href="#about">Eagle Expo Demo</a>
+                <a href="#services">FGCU Real-Time Flood Sim</a>
+                <a href="#clients">FGCU VR Flood</a>
+                <a href="#contact">ADAM</a>
               </div>
             </h1>
             <p className="EagleExpoDemo"> Eagle Expo Demo </p>
@@ -23,6 +26,7 @@ class Projects extends Component {
             </iframe>
             <p className="EagleExpoDemoEndBorder"></p>
           </body>
+
       </div>
     );
   }
