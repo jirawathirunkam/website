@@ -19,7 +19,9 @@ class Projects extends Component {
             </p>
             <br/>
             <iframe className="EagleExpoDemoVideo"
-             src="https://drive.google.com/file/d/1efeRGHd8pxeq61jJ9IYLmRkhGfrpJdFk/preview"></iframe>
+             src="https://drive.google.com/file/d/1efeRGHd8pxeq61jJ9IYLmRkhGfrpJdFk/preview">
+            </iframe>
+            <p className="EagleExpoDemoEndBorder"></p>
           </body>
       </div>
     );

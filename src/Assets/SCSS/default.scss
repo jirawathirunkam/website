@@ -272,10 +272,13 @@ footer {
 .EagleExpoDemoVideo{
   //margin-top: -5%;
   margin-left: 50%;
-  width: 480px;
+  width: 520px;
   height: 320px;
 }
 
+.EagleExpoDemoEndBorder{
+  border-bottom: 5px solid $darkgray2;
+}
 //End of Projects section
 
 //Bio section
