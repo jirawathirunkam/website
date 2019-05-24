@@ -8,6 +8,9 @@ class Projects extends Component {
             <h1 className="ProjectPageTitle">
               Software Projects
               <p></p>
+              <div className="EagleExpoDemoPicture">
+                <img src="https://github.com/jirawathirunkam/website/blob/master/public/EagleExpoDemo.JPG?raw=true"/>
+              </div>
             </h1>
             <p className="EagleExpoDemo"> Eagle Expo Demo </p>
             <p> From the video, the news discussed the other project related to hurricane,

@@ -255,6 +255,20 @@ footer {
   //margin-left: auto;
 }
 
+.EagleExpoDemoPicture{
+  margin-top: 3%;
+  position: absolute;
+
+  img{
+    width: 80%;
+    position: relative;
+    //left: 50px;
+    right: 90%;
+    height: 280px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+}
+
 .EagleExpoDemoVideo{
   //margin-top: -5%;
   margin-left: 50%;
