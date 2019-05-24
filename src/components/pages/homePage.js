@@ -9,7 +9,7 @@ class Homepage extends Component {
                Jirawat Hirunkam
                <p></p>
                <div className="HomeProfile">
-                <img src="https://github.com/jirawathirunkam/website/blob/master/public/Me2.jpg?raw=true"/>
+                <img src="https://github.com/jirawathirunkam/website/blob/master/public/MeGraduating.jpg?raw=true"/>
                </div>
             </h1>
 
@@ -26,6 +26,8 @@ class Homepage extends Component {
             <a className="Resume" href="https://github.com/jirawathirunkam/website/blob/master/public/Resume.pdf" target="_blank">
               View Resume
             </a>
+            <br/>
+            <br/>
             <p className="About"> About </p>
             <p className="AboutContent">
               Interested in Software Development and solving problems.<br/>
