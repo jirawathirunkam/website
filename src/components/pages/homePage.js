@@ -49,13 +49,13 @@ class Homepage extends Component {
               - Vizard development with Python
             </p>
             <p className="SkillsContent">
+              - Proficient in Agile Software Development Life Cycle using Jira and Waterfall methodology
+            </p>
+            <p className="SkillsContent">
+              - Familiar with Unit, Functional, and Integration Software Testing methodology
+            </p>
+            <p className="SkillsContent">
               - Familiar with Web development using React, JavaScript, HTML5, CSS, and SCSS
-            </p>
-            <p className="SkillsContent">
-              - Practices Agile and Waterfall Software Development Life Cycle
-            </p>
-            <p className="SkillsContent">
-              - Familiar with Unit, Functional, and Integration Software Testing methodoligies
             </p>
             <p className="WorkExperience"> Work Experience </p>
             <p className="WorkExperienceContent">

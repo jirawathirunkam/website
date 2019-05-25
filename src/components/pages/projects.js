@@ -20,7 +20,7 @@ class Projects extends Component {
             <p> I was on WINK News talking about virtual reality and the VIPER Lab where I worked at and
             the demo presented was the Eagle Expo Demo, a virtual reality Demo that focuses on
             interactively visualizing the architecture of a construction project.
-            The purpos of this project is to help engineers be able to observe 3D data in an immersive environment which helps in detecting defects and also a good way of presenting
+            The purpose of this project is to help engineers be able to observe 3D data in an immersive environment which helps in detecting defects and it is also a good way of presenting
             the construction project to a client before it is built.
             </p>
             <br/>
