@@ -40,23 +40,40 @@ class Homepage extends Component {
             </p>
             <p className="Skills"> Skills </p>
             <p className="SkillsContent">
-              - Java, Python, and C++ programming
+              Proficient in:
+              <p className="Proficient">
+                - Java, Python, and C++ programming
+              </p>
+              <p className="Proficient">
+                - Unreal Engine 4 development with C++ and Blueprint scripting
+              </p>
+              <p className="Proficient">
+                - Vizard development with Python
+              </p>
+              <p className="Proficient">
+                - Agile and Waterfall Software Development Life Cycle
+              </p>
+              <p className="Proficient">
+                - Jira, GitHub and Bitbucket tool
+              </p>
             </p>
             <p className="SkillsContent">
-              - Unreal Engine 4 development with C++ and Blueprint scripting
+              <br/>
+              Familiar with:
+              <p className="Familiar">
+                - Unit, Functional, and Integration Software Testing methodology
+              </p>
+              <p className="Familiar">
+                - Web development using React, JavaScript, HTML5, CSS, and SCSS
+              </p>
+              <p className="Familiar">
+                - H2 SQL Relational Database Management System
+              </p>
+              <p className="Familiar">
+                - Blender, 3ds Max, and Photoshop for modeling and digital design.
+              </p>
             </p>
-            <p className="SkillsContent">
-              - Vizard development with Python
-            </p>
-            <p className="SkillsContent">
-              - Proficient in Agile Software Development Life Cycle using Jira and Waterfall methodology
-            </p>
-            <p className="SkillsContent">
-              - Familiar with Unit, Functional, and Integration Software Testing methodology
-            </p>
-            <p className="SkillsContent">
-              - Familiar with Web development using React, JavaScript, HTML5, CSS, and SCSS
-            </p>
+
             <p className="WorkExperience"> Work Experience </p>
             <p className="WorkExperienceContent">
               VIPER Lab Assistant at U.A. Whitaker College of Engineering,

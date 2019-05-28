@@ -10,7 +10,7 @@ class Projects extends Component {
               <p></p>
               <div class="sidenav">
                 <a href="#Eagle_Expo_Demo">Eagle Expo Demo</a>
-                <a href="#FGCU_Flood_Sim">FGCU Real-Time Flood Sim</a>
+                <a href="#FGCU_Flood_Sim">Real Time FGCU Fluid Dynamic Flood Simulation</a>
                 <a href="#FGCU_VR_Flood">FGCU VR Flood Sim</a>
                 <a href="#ADAM">ADAM</a>
               </div>
@@ -24,25 +24,40 @@ class Projects extends Component {
             the construction project to a client before it is built.
             </p>
             <br/>
-            <iframe className="EagleExpoDemoVideo"
+            <iframe className="GoogleVid"
              src="https://drive.google.com/file/d/1efeRGHd8pxeq61jJ9IYLmRkhGfrpJdFk/preview">
             </iframe>
             <p className="border"></p>
             <a name="FGCU_Flood_Sim"></a>
-            <p className="ProjectTitles"> FGCU Real-Time Flood Simulation</p>
+            <p className="ProjectTitles"> Real Time FGCU Fluid Dynamic Flood Simulation</p>
             <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
             </p>
+            <iframe className="GoogleVid"
+              src="https://drive.google.com/file/d/1joPygOMq34JQMkDLi7iPse3jOU1lUpPo/preview"></iframe>
             <p className="border"></p>
             <a name="FGCU_VR_Flood"></a>
             <p className="ProjectTitles"> FGCU VR Flood Simulation</p>
             <p> At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
             </p>
+            <iframe className="GoogleVid"
+              src="https://drive.google.com/file/d/1DIxo1j63wwHRtetFUUw2CwvyAQtL7rL6/preview">
+            </iframe>
             <p className="border"></p>
             <a name="ADAM"></a>
             <p className="ProjectTitles"> Automatic Directional Antenna Mechanism (ADAM)</p>
             <p> At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+            <br/>
+            <br/>
+            <iframe className="AdamVideo"
+              src="https://www.youtube.com/embed/vRzqHTamybg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </p>
-
+            <p> At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+            <br/>
+            <br/>
+            <iframe className="AdamVideo"
+              src="https://www.youtube.com/embed/FarrLuJQUio" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+            </iframe>
+            </p>
             <br/>
             <br/>
           </body>

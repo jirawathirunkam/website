@@ -239,6 +239,14 @@ footer {
   margin-top: -1%;
 }
 
+.Proficient{
+  margin-left: 5%;
+}
+
+.Familiar{
+  margin-left: 5%;
+}
+
 .WorkExperience{
   font-size: 25px;
   color: $green;
@@ -275,9 +283,15 @@ footer {
   font-size: 25px;
   color: $green;
   //margin-left: auto;
+
 }
 
-.EagleExpoDemoVideo{
+.AdamVideo{
+  width: 70%;
+  height: 300px;
+}
+
+.GoogleVid{
   //margin-top: -5%;
   margin-left: 40%;
   width: 40%;
