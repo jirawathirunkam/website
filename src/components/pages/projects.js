@@ -20,7 +20,7 @@ class Projects extends Component {
             <p> I was on WINK News talking about virtual reality and the VIPER Lab where I worked at and
             the demo presented was the Eagle Expo Demo, a virtual reality Demo that focuses on
             interactively visualizing the architecture of a construction project.
-            The purpose of this project is to help engineers be able to observe 3D data in an immersive environment which helps in detecting defects and it is also a good way of presenting
+            The purpose of this project is to help engineers be able to observe 3D models in an immersive environment which helps in detecting defects and it is also a good way of presenting
             the construction project to a client before it is built.
             </p>
             <br/>
@@ -30,14 +30,25 @@ class Projects extends Component {
             <p className="border"></p>
             <a name="FGCU_Flood_Sim"></a>
             <p className="ProjectTitles"> Real Time FGCU Fluid Dynamic Flood Simulation</p>
-            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+            <p> This project's objective was to build a real time flood simulation in 3D graphics. The goal is to provide a realistic visual simulation of flood effect on
+            a 3D mapped model of Florida Gulf Coast University campus. The project was also a research that studies the limitation of real time fluid dynamics engine and its application.
+            The technology used was Unreal Engine 4 (a game engine by Epic Games) with Nvidia Cataclysm (a fluid dynamic engine powered by Nvidia GPU)
             </p>
             <iframe className="GoogleVid"
               src="https://drive.google.com/file/d/1joPygOMq34JQMkDLi7iPse3jOU1lUpPo/preview"></iframe>
             <p className="border"></p>
             <a name="FGCU_VR_Flood"></a>
             <p className="ProjectTitles"> FGCU VR Flood Simulation</p>
-            <p> At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+            <p>
+              This was a senior project that had 7 software engineering students involved including myself as the team leader.
+              The purpose of this project was to convert real hydrology flood result from a scientific hydrodynamic software called ICPR, into
+              virtual reality. The goal is to immerse users into flood sceneraios caused by hurricanes such as Irma.
+              This is a research and an educational tool that is useful for the College of Engineering at FGCU to study flood risks and prepare for them.
+              <br/>
+              <br/>
+              There are many technologies involved in the development of this projet.
+              The game engine utilized was Unreal Engine 4 and the photogramettry of campus
+              was done using a DJI Drone and DroneDeploy cloud software.
             </p>
             <iframe className="GoogleVid"
               src="https://drive.google.com/file/d/1DIxo1j63wwHRtetFUUw2CwvyAQtL7rL6/preview">
@@ -45,13 +56,24 @@ class Projects extends Component {
             <p className="border"></p>
             <a name="ADAM"></a>
             <p className="ProjectTitles"> Automatic Directional Antenna Mechanism (ADAM)</p>
-            <p> At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+            <p> ADAM is a project that has the purpose of solving the problem of slow internet service through LTE.
+              The objective of the device is to have it detect nearby cellular signals and searches for the best signal
+              to be applified.
+              <br/>
+              <br/>
+              There are many components to the ADAM device and that is including software and hardware. There is an Android
+              application that communicates LTE signal from an Android phone to the Raspberry Pi. The Raspberry Pi is responsible
+              for moving the servos which moves the antenna array that receives the frequency signals of celluar signals. The Raspberry Pi
+              makes use of the signal quality and antenna positions to find the optimal direction for the antenna to provide the best LTE
+              service for nearby cellular devices.
             <br/>
             <br/>
             <iframe className="AdamVideo"
               src="https://www.youtube.com/embed/vRzqHTamybg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </p>
-            <p> At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+            <p> There is a version 2 of the ADAM device. It was a mantenance project but the team ended up rebuilding
+             a lot of the components so that there would be huge improvements of the device's usability and efficiency.
+
             <br/>
             <br/>
             <iframe className="AdamVideo"

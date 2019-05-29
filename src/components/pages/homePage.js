@@ -54,7 +54,7 @@ class Homepage extends Component {
                 - Agile and Waterfall Software Development Life Cycle
               </p>
               <p className="Proficient">
-                - Jira, GitHub and Bitbucket tool
+                - Jira, Git with GitHub and Bitbucket
               </p>
             </p>
             <p className="SkillsContent">
