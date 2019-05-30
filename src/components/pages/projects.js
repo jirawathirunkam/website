@@ -71,7 +71,7 @@ class Projects extends Component {
             <iframe className="AdamVideo"
               src="https://www.youtube.com/embed/vRzqHTamybg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </p>
-            <p> There is a version 2 of the ADAM device. It was a mantenance project but the team ended up rebuilding
+            <p> There is a version 2 of the ADAM device. It was a maintenance project but the team ended up rebuilding
              a lot of the components so that there would be huge improvements of the device's usability and efficiency.
 
             <br/>
