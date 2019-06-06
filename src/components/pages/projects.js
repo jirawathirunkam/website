@@ -46,9 +46,10 @@ class Projects extends Component {
               This is a research and an educational tool that is useful for the College of Engineering at FGCU to study flood risks and prepare for them.
               <br/>
               <br/>
-              There are many technologies involved in the development of this projet.
+              There are many technologies involved in the development of this project.
               The game engine utilized was Unreal Engine 4 and the photogramettry of campus
-              was done using a DJI Drone and DroneDeploy cloud software.
+              was done using a DJI Drone and DroneDeploy cloud software. The simulation software supports two virtual reality platforms, which is
+              the Oculus Rift and WorldViz Corner Cave VR projection.
             </p>
             <iframe className="GoogleVid"
               src="https://drive.google.com/file/d/1DIxo1j63wwHRtetFUUw2CwvyAQtL7rL6/preview">
@@ -58,7 +59,7 @@ class Projects extends Component {
             <p className="ProjectTitles"> Automatic Directional Antenna Mechanism (ADAM)</p>
             <p> ADAM is a project that has the purpose of solving the problem of slow internet service through LTE.
               The objective of the device is to have it detect nearby cellular signals and searches for the best signal
-              to be applified.
+              to be amplified.
               <br/>
               <br/>
               There are many components to the ADAM device and that is including software and hardware. There is an Android
