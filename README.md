@@ -1,4 +1,4 @@
-This is a personal website project built with React ,HTML, and SCSS
+This is a personal website project built with React ,HTML, and SCSS.
 Below is the instruction on how to setup a react project and other information.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
