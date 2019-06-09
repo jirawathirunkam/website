@@ -1,3 +1,7 @@
+This is a personal website project built with React ,HTML, and SCSS.
+Below is the instruction on how to setup a react project and other information. The project is deployed on Github pages, https://jirawathirunkam.github.io/website/.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
