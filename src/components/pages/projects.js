@@ -42,12 +42,12 @@ class Projects extends Component {
             <p>
               This was a senior project that had 7 software engineering students involved including myself as the team leader.
               The purpose of this project was to convert real hydrology flood result from a scientific hydrodynamic software called ICPR, into
-              virtual reality. The goal is to immerse users into flood sceneraios caused by hurricanes such as Irma.
+              virtual reality. The goal is to immerse users into flood scenarios caused by hurricanes such as Irma.
               This is a research and an educational tool that is useful for the College of Engineering at FGCU to study flood risks and prepare for them.
               <br/>
               <br/>
               There are many technologies involved in the development of this project.
-              The game engine utilized was Unreal Engine 4 and the photogramettry of campus
+              The game engine utilized was Unreal Engine 4 and the photogrammetry of campus
               was done using a DJI Drone and DroneDeploy cloud software. The simulation software supports two virtual reality platforms, which is
               the Oculus Rift and WorldViz Corner Cave VR projection.
             </p>
@@ -64,7 +64,7 @@ class Projects extends Component {
               <br/>
               There are many components to the ADAM device and that is including software and hardware. There is an Android
               application that communicates LTE signal from an Android phone to the Raspberry Pi. The Raspberry Pi is responsible
-              for moving the servos which moves the antenna array that receives the frequency signals of celluar signals. The Raspberry Pi
+              for moving the servos which moves the antenna array that receives the frequency signals of cellular signals. The Raspberry Pi
               makes use of the signal quality and antenna positions to find the optimal direction for the antenna to provide the best LTE
               service for nearby cellular devices.
             <br/>
